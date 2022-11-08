@@ -1,0 +1,4 @@
+név: Szilvás Fanni, fizuk: 350000
+név: Nagy Béla, fizuk: 170000
+név: Alis Jenő, fizuk: 270000
+név: Kiss Erika, fizuk: 270000
