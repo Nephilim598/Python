@@ -1,0 +1,8 @@
+class Hiresno():
+    def __init__(self, nev, nemzetiseg, foglalkozas):
+        self.nev = nev
+        self.nemzetiseg = nemzetiseg
+    
+
+def __str__(self):
+    return "{self.nev:30} | {self.nemzetiseg:10}"
